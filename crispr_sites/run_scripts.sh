@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#Goal: RBIF100 Assignment 2
-#Author: Ondine Grosser
-
 echo "Hello. See report.txt for the summarized report,"
 echo "and see readme.txt for details on script inputs, outputs, and execution."
 echo ""
